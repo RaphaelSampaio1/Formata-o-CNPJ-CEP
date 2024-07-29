@@ -20,3 +20,16 @@ Copie o número formatado e, se desejar formatar outro número, preencha novamen
 Forneci o arquivo executável chamado "cnpj_format.exe" para obter, clique no arquivo , e no canto direito superios, clique no icone de Dowload
 
 (! ANTES DE BAIXAR, PRECISA DESATIVAR O WINDOWS DEFENDER DO PC, pois ele bloqueia dowload de arquivos exe externos !)
+
+<hr></hr>
+
+# ! CASO APAREÇA "DECTEÇÃO DE POSSIVEL VIRUS" !
+Não se preocupe !!! O Windows barra a instalação pois como é fonte desconhecida, ele reconhece como "Pode conter vírus", mas é apenas um mecanismo de defesa.
+Para corrigir isso, desative a segurança Windows Defender:
+- Aperte = Windows + I
+- Privacidade e Segurança
+- Segurança do Windows
+- Proteção contra vírus e ameaças
+- Opções do Microsoft Defender Antivírus
+- "Desativar"
+
