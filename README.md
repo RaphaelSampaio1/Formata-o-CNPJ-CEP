@@ -15,6 +15,7 @@ O número formatado aparecerá na linha de baixo.
 Copie o número formatado e, se desejar formatar outro número, preencha novamente o campo da linha de cima e clique em "Format".
 
 <hr></hr>
+
 ### Baixar EXE
 Forneci o arquivo executável chamado "cnpj_format.exe" para obter, clique no arquivo , e no canto direito superios, clique no icone de Dowload
 
