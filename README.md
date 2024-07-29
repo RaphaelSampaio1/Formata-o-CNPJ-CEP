@@ -13,3 +13,9 @@ Insira o CNPJ ou CEP na primeira linha. Exemplos de formatos aceitos:
 O número formatado aparecerá na linha de baixo.
 
 Copie o número formatado e, se desejar formatar outro número, preencha novamente o campo da linha de cima e clique em "Format".
+
+<hr></hr>
+### Baixar EXE
+Forneci o arquivo executável chamado "cnpj_format.exe" para obter, clique no arquivo , e no canto direito superios, clique no icone de Dowload
+
+(! ANTES DE BAIXAR, PRECISA DESATIVAR O WINDOWS DEFENDER DO PC, pois ele bloqueia dowload de arquivos exe externos !)
