@@ -1,1 +1,15 @@
-# Formata-o-CNPJ-CEP
+# Formatar-CNPJ-CEP
+
+## Este é um sistema desenvolvido para facilitar a formatação de CNPJ e CEP para cadastro em sistemas que não reconhecem caracteres de pontuação (., -, /).
+
+Como Usar:
+
+Insira o CNPJ ou CEP na primeira linha. Exemplos de formatos aceitos:
+
+- CNPJ: xx.xxx.xxx/xxxx-xx
+- CEP: xxxxx-xxx
+- Clique em "Format".
+
+O número formatado aparecerá na linha de baixo.
+
+Copie o número formatado e, se desejar formatar outro número, preencha novamente o campo da linha de cima e clique em "Format".
